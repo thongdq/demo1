@@ -22,3 +22,4 @@
 
 #feature checkbox
 - checkbox 1
+- checkbox 2
