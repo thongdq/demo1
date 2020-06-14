@@ -19,3 +19,6 @@
 #feature user
 - user 1
 - user 2
+
+#feature combobox
+- combobox 1
