@@ -24,3 +24,8 @@
 - checkbox 1
 - checkbox 2
 - checkbox 3
+
+#feature combobox
+- combobox 1
+- combobox 2
+- combobox 3
