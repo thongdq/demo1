@@ -33,4 +33,3 @@
 #feature textarea
 - textarea 1
 - textarea 2
-- textarea 3
