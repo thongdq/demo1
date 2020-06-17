@@ -33,3 +33,7 @@
 #feature textarea
 - textarea 1
 - textarea 2
+
+#feature s1_f2
+- f2 text
+- f2 number
