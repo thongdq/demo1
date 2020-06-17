@@ -41,3 +41,7 @@
 #feature s1_f2
 - f2 text
 - f2 number
+
+#feature s2_f1
+- f1 text
+- f1 number
